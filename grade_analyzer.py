@@ -24,4 +24,4 @@ else:
 
 print("Category:", category)
 
-print("Python Grade Analysis Tool")
+print("Student Performance Analyzer")
